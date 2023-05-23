@@ -24,32 +24,23 @@ Alternatively, you can also host the game on a web server and access it through 
 # Gameplay
 The Flight Simulator game aims to provide an immersive flying experience to the players. Here's an overview of the gameplay features:
 
-- Controls
- The game can be controlled using the following keyboard inputs:
- * **W: Increase altitude**
+Controls
+The game can be controlled using the following keyboard inputs:
+- **W: Increase altitude**
+- **S: Decrease altitude**
+- **Q: Turn left**
+- **E: Turn right**
+- **K: Shoot projectiles**
 
- * **S: Decrease altitude**
+Movement
+The game allows players to control the aircraft's movements in the following ways:
+- **J: Increase the aircraft's speed and lift to take off from the runway.**
+- **I: Decrease the aircraft's speed and descend to land on the runway.**
+- **A: Barrell roll left.**
+- **D: Barrell roll left.**
 
-  - **Q: Turn left**
-
-  - **E: Turn right**
-
-  - **K: Shoot projectiles**
-
-- Movement
- - The game allows players to control the aircraft's movements in the following ways:
-
-  - **J: Increase the aircraft's speed and lift to take off from the runway.**
-
-  - **I: Decrease the aircraft's speed and descend to land on the runway.**
-
-  - **A: Barrell roll left.**
-
-  - **D: Barrell roll left.**
-
-- Shooting
-
--- Flight Simulator incorporates a shooting feature for players to engage in aerial combat. By pressing the **'k'** button, the aircraft will shoot projectiles towards enemy targets. The specifics of the shooting mechanics may vary based on the game's implementation.
+Shooting
+ Flight Simulator incorporates a shooting feature for players to engage in aerial combat. By pressing the **'k'** button, the aircraft will shoot projectiles towards enemy targets. The specifics of the shooting mechanics may vary based on the game's implementation.
 
 # Contributing
 We welcome contributions from the community to enhance the Flight Simulator game. If you would like to contribute, please follow these steps:
