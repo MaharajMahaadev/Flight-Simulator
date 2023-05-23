@@ -28,17 +28,24 @@ The Flight Simulator game aims to provide an immersive flying experience to the 
 The game can be controlled using the following keyboard inputs:
 
 **W: Increase altitude**
+
 **S: Decrease altitude**
+
 **Q: Turn left**
+
 **E: Turn right**
+
 **K: Shoot projectiles**
 
 - Movement
 The game allows players to control the aircraft's movements in the following ways:
 
 **J: Increase the aircraft's speed and lift to take off from the runway.**
+
 **I: Decrease the aircraft's speed and descend to land on the runway.**
+
 **A: Barrell roll left.**
+
 **D: Barrell roll left.**
 
 - Shooting
