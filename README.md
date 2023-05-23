@@ -25,11 +25,10 @@ Alternatively, you can also host the game on a web server and access it through 
 The Flight Simulator game aims to provide an immersive flying experience to the players. Here's an overview of the gameplay features:
 
 - Controls
- - The game can be controlled using the following keyboard inputs:
+ The game can be controlled using the following keyboard inputs:
+ * **W: Increase altitude**
 
-  - **W: Increase altitude**
-
-  - **S: Decrease altitude**
+ * **S: Decrease altitude**
 
   - **Q: Turn left**
 
