@@ -1,6 +1,6 @@
 # Flight-Simulator
 
-Flight Simulator is a web-based game developed using JavaScript, HTML, and CSS. It provides users with a realistic flying experience, allowing them to control a virtual aircraft and perform various movements such as takeoff, landing, turning, ascending, descending, and even engaging in aerial combat with a shooting feature.
+Flight Simulator is a web-based game developed using mostly JavaScript, and a small amount of HTML and CSS. It provides users with a realistic flying experience, allowing them to control a virtual aircraft and perform various movements such as takeoff, landing, turning, ascending, descending, and even engaging in aerial combat with a shooting feature.
 
 # Table of Contents
 - Installation
